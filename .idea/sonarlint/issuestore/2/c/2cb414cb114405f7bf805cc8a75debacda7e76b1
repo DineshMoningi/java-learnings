@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë†¶
+i
+java:S3008	"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°îéè
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ç¿Àþÿÿÿÿ8ßø«Ò€1
+X	java:S125"<This block of commented-out lines of code should be removed.(öÒêÎ8Ëø¶Ò€1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(„ˆÌ°8Ú¹äâ¢1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(„ˆÌ°8í«åâ¢1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(„ˆÌ°8î«åâ¢1

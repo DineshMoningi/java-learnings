@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë†¶8ƒ¶áÉƒ1
+o
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£´ôa8¶áÉƒ1
+s
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©ÉÏû8“¶áÉƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÆ—Ùşÿÿÿÿ8•¶áÉƒ1
+p
+java:S3008/"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥®Å8—¶áÉƒ1
+s
+java:S1149&"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©ÉÏû8—¶áÉƒ1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(äÆ—Ùşÿÿÿÿ8˜¶áÉƒ1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ªëŸ½ûÿÿÿÿ8œ¶áÉƒ1
+U
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8œ¶áÉƒ1

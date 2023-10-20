@@ -1,0 +1,30 @@
+
+:
+java:S2326"T is not used in the interface.(€¹±üÿÿÿÿ
+:
+java:S2326"U is not used in the interface.(€¹±üÿÿÿÿ
+:
+java:S2326"V is not used in the interface.(€¹±üÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Ê†êÅıÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "s".(ªåÕ—ùÿÿÿÿ
+P
+java:S1117"5Rename "s" which hides the field declared at line 18.(ªåÕ—ùÿÿÿÿ
+A
+java:S1481"&Remove this unused "s" local variable.(ªåÕ—ùÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "pre".(¦É¦ô
+K
+java:S1854"5Remove this useless assignment to local variable "s".(ïµ Ê
+<
+java:S1481"&Remove this unused "s" local variable.(ïµ Ê
+F
+java:S1611"0Remove the parentheses around the "i2" parameter(½½ğ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É¾óËûÿÿÿÿ
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¦É¦ô
+E
+java:S1611"/Remove the parentheses around the "i" parameter(¦É¦ô
+>
+java:S1481"(Remove this unused "pre" local variable.(¦É¦ô

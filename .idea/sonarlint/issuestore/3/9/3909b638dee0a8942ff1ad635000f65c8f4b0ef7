@@ -1,0 +1,6 @@
+
+t
+java:S1210+"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¢¦ƒ ÿÿÿÿÿ
+h
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¹–†ö
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ýÿÿÿÿ8¦ƒ©Ë‚1

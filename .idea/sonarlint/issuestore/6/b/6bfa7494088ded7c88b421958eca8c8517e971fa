@@ -1,0 +1,12 @@
+
+r	java:S1277"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõþÿÿÿÿ
+a
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹»ðÛ
+>
+java:S1659U"#Declare "right" on a separate line.(®˜‘õûÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ßø—‡
+R
+java:S1612n"<Replace this lambda with method reference 'Token::toString'.(ßø—‡
+C
+java:S1068"(Remove this unused "type" private field.(žƒàöùÿÿÿÿ

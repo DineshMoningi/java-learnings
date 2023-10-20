@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/event/BookingEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-kafka-publisher/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-kafka-publisher/src/main/java/com/gap/sourcing/booking/bookingservice/configuration/KafkaConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-kafka-publisher/src/main/java/com/gap/sourcing/booking/bookingservice/configuration/KafkaCustomProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-kafka-publisher/src/main/java/com/gap/sourcing/booking/bookingservice/kafka/KafkaEventListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-kafka-publisher/src/main/java/com/gap/sourcing/booking/bookingservice/kafka/KafkaEventPublisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-publisher/src/main/java/com/gap/sourcing/booking/bookingservice/publisher/BookingEventPublisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-repository/src/main/java/com/gap/sourcing/booking/bookingservice/service/BookingEventRepositoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service-clone/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/resolver/impl/BookingEventResourceResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/BookingEventAssemblerSupport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/BookingEventResponseWireType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/PublishedBookingEventAssemblerSupport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/PublishedBookingEventResponseWireType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/PublishedBookingEventWireType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-domain/src/main/java/com/gap/sourcing/booking/bookingservice/domain/v2/event/BookingEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-repository/src/main/java/com/gap/sourcing/booking/bookingservice/repository/BookingEventRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-repository/src/main/java/com/gap/sourcing/booking/bookingservice/repository/PublishedBookingEventRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-repository/src/main/java/com/gap/sourcing/booking/bookingservice/service/PublishedBookingEventRepositoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-repository/src/test/java/com/gap/sourcing/booking/bookingservice/service/PublishedBookingEventRepositoryServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service-acceptance-tests/acceptance/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service-acceptance-tests/acceptance/src/test/java/com/gap/sourcing/booking/bookingservice/stepdefs/component/BookingEventStepDefs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/gradle/artifactory.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/controller/BookingEventController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/controller/PublishedBookingEventController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/event/BookingEventFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/processor/AbstractBookingProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/java/com/gap/sourcing/booking/bookingservice/service/BookingEventService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/main/resources/application-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/test/java/com/gap/sourcing/booking/bookingservice/controller/BookingEventControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/test/java/com/gap/sourcing/booking/bookingservice/controller/PublishedBookingEventControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/test/java/com/gap/sourcing/booking/bookingservice/event/BookingEventFactoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/booking-service/src/test/java/com/gap/sourcing/booking/bookingservice/service/BookingEventServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/gradle/artifactory.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/booking/backend/booking-service/properties.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/config/receipt-config-repository/receipt-kafka-publisher-release.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/configuration/CacheConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/configuration/SecurityConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/controller/PrepackManagerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/dto/brandfoundation/Size.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/dto/prepackmanager/PrepackManagerDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/dto/prepackservice/PrepackInbound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/exception/ClientErrorException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/exception/PrepackUIManagerExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/exception/UnprocessableEntityException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/exception/handler/BrandFoundationErrorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/exception/handler/PrepackServiceErrorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/proxy/PrepackServiceProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/service/PrepackManagerMapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/service/PrepackManagerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/java/com/gap/plan/prepack/prepackmanager/service/util/PrepackManagerUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/main/resources/application-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/test/java/com/gap/plan/prepack/prepackmanager/controller/PrepackManagerControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/test/java/com/gap/plan/prepack/prepackmanager/exception/PrepackUIManagerExceptionHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/test/java/com/gap/plan/prepack/prepackmanager/proxy/PrepackServiceProxyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/test/java/com/gap/plan/prepack/prepackmanager/service/PrepackManagerMapperServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-manager/prepack-manager/src/test/java/com/gap/plan/prepack/prepackmanager/service/PrepackManagerServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-publisher-rabbitmq/prepack-publisher-rabbitmq/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/common/PrepackServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/create/CreateMultiplePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/create/CreateSinglePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/delete/DeleteMultipleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/delete/DeleteSingleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/delete/UpdateSinglePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/purge/CreateMultiplePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/purge/CreateSinglePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/purge/PurgeMultiplePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/purge/PurgeSinglePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/DeleteMultipleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/DeleteSingleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/ReactivateMultipleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/ReactivateSingleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/UpdateMultiplePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/reactivate/UpdateSinglePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateMultiplePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateMultipleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateMultipleTypePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateSinglePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateSingleTypePrepackRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/runner/update/UpdateSingleTypePrepackSkuRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/create/CreateAndPurgeMultiplePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/create/CreateAndPurgeSinglePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/create/CreateMultiplePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/create/CreateSinglePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/delete/DeleteMultipleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/delete/DeleteSingleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/purge/PurgeMultiplePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/purge/PurgeSinglePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/reactivate/ReactivateMultipleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/reactivate/ReactivateSingleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/reactivate/UpdateAndDeleteMultiplePrepackSkusSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/update/UpdateAndDeleteMultiplePrepackSkusSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/update/UpdateAndPurgeSinglePrepackSkuSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/update/UpdateMultipleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/steps/update/UpdateSingleTypePrepackSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/utils/ApplicationScopeSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/utils/ApplicationSessionScope.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/java/com/gap/plan/prepack/prepack/utils/ScenarioSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/create/multiple/oneRequest/createMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/create/single/oneRequest/createSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/createPPK/createAndPurgeSinglePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/delete/multiple/oneRequest/deleteMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/delete/multiple/oneRequest/deleteMultipleTypePrepackSku.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/delete/single/oneRequest/deleteSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/purge/purgeMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/purge/purgeSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/reactivate/multiple/oneRequest/reactivateMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/reactivate/single/oneRequest/reactivateSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/update/multiple/oneRequest/updateAndDeleteMultiplePrepackSku.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/update/multiple/oneRequest/updateMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/update/multiple/oneRequest/updateMultipleTypePrepackSku.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/update/single/oneRequest/updateSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/zPurge/purgeMultipleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepack-service-acceptance-tests/src/main/resources/features/zPurge/purgeSingleTypePrepack.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-domain/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-domain/src/main/java/com/gap/plan/prepacks/domain/request/PrepackUpdateRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/configurations/HttpBasicConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/configurations/textfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/controller/UtilityController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/controller/advice/GlobalControllerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/proxy/OrderProxyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/publisher/PrepackEventRetryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/publisher/PrepackEventService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/service/PrepackLockValidatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/service/PrepackPurgeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/java/com/gap/plan/prepacks/service/service/PrepacksService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/resources/application-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/test/java/com/gap/plan/prepacks/service/controller/PrepacksControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/test/java/com/gap/plan/prepacks/service/controller/UtilityControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/test/java/com/gap/plan/prepacks/service/controller/advice/GlobalControllerAdviceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/test/java/com/gap/plan/prepacks/service/interceptor/PrepackSearchTermsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/backend/prepacks-application/prepacks-service/src/test/java/com/gap/plan/prepacks/service/publisher/PrepackEventRetryServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackmanager/job_prepack_manager_pull_request.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackmanagerui/job_prepack_manager_ui_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackmanagerui/job_prepack_manager_ui_pull_request.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackpublisher/job_prepack_publisher_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackpublisher/job_prepack_publisher_pull_request.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackpublisher/rabbitmq/job_prepack_publisher_rabbitmq_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackpublisher/rabbitmq/job_prepack_publisher_rabbitmq_pull_request.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackservice/job_prepack_service_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/prepackservice/job_prepack_service_mock_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/receiptkafkapublisher/job_receipt_kafka_publisher_build.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/receiptkafkapublisher/job_receipt_kafka_publisher_deploy_release.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/ci-cd-pipeline/sizeandpack-pipeline-dsl/src/main/groovy/com/gap/plan/sizeandpackpipelinedsl/jobs/receiptkafkapublisher/job_receipt_kafka_publisher_deploy_stage.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Prepack/Prepack_TP_PPKPUB_PREPACK_metadata_PREPROD.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Prepack/Prepack_TP_PPKPUB_PREPACK_metadata_PROD.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Prepack/Prepack_TP_PPKPUB_PREPACK_metadata_STAGE.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Prepack/producer_metadata_template_nonpii.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Prepack/producer_metadata_template_nonpii_stage.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/Receipt/Receipt_TP_RECEIPTPUB_RECEIPT_metadata_STAGE.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/ReceiptService/Prepack_TP_PPKPUB_PREPACK_metadata_STAGE.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/prepacks/gdp/gdp-producer-metadata/ReceiptService/Receipt_TP_RECEIPTPUB_RECEIPT_metadata_STAGE.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/backend/receipt-manager/acceptance-test/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/backend/receipt-manager/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/backend/receipt-manager/receipt-manager/src/main/java/com/gap/plan/receiptmanager/configuration/sso/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/ui/main/receipt-manager-ui/.nvmrc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/ui/main/receipt-manager-ui/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/ui/main/receipt-manager-ui/receipt-manager-ui/karma.conf.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/ui/main/receipt-manager-ui/receipt-manager-ui/src/main/ui/general/components/SubMenuComponents.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/receipt-manager/ui/main/receipt-manager-ui/receipt-manager-ui/src/main/ui/general/security/Authorization.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-commons/src/main/java/com/gap/plan/receipt/commons/domain/receiptresponse/PurchaseOrderDataResponseResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-commons/src/main/java/com/gap/plan/receipt/commons/domain/receiptresponse/RSCAttributesResponseResourceDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-commons/src/main/java/com/gap/plan/receipt/commons/domain/receiptresponse/ReceiptResponseResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-commons/src/main/java/com/gap/plan/receipt/commons/domain/receiptresponse/SizeBreakoutDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-event-kafka-listener/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-event-kafka-listener/plan-receipt-event-kafka-listener/src/main/java/com/gap/plan/receipt/event/kafka/listener/listener/PrepackKafkaListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-event-kafka-listener/plan-receipt-event-kafka-listener/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-service/src/main/java/com/gap/plan/planreceiptservice/controllers/AssortmentQueryDataController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-service/src/main/java/com/gap/plan/planreceiptservice/domains/AssortmentQueryData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-service/src/test/java/com/gap/plan/planreceiptservice/controllers/AssortmentQueryDataControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/plan-receipt-service/src/test/java/com/gap/plan/planreceiptservice/controllers/CreateCPReceiptsControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/pcf/manifest-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/pcf/manifest-production.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/pcf/manifest-qa.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/pcf/manifest-release.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-avpr/com/gap/avro/sizeandpack/receipt/Receipt.avpr">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/receipt/EventType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/receipt/Receipt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/receipt/ReceiptKafkaEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/AssortmentData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/BTSAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackBreakout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackTypeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackTypePercentage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackingProcessStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PackingStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PacksByDC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PendingActionInPackEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/PurchaseOrderData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/RSCAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/build/generated-main-avro-java/com/gap/avro/sizeandpack/referencedata/SizeUnitsByStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/receipt-kafka-event.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/receipt.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/bts-attribute.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/pack-breakout.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/pack-type-percentage.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/packs-by-dc.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/purchase-order-data.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/rsc-attribute.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/size-breakout.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-avro-model/src/main/avro/referencedata/size-units-by-store.avdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/domain/receipt/ReceiptKafkaEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/exception/RetryErrorHandlerLocal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/kafka/KafkaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/mapper/ReceiptEventMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/mapper/ReferenceDataMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/java/com/gap/plan/receipt/processor/EventProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/resources/application-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/ReceiptPublisherApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/exception/RetryErrorHandlerLocalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/listener/EventListenerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/listener/ReceiptEventListenerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/processor/EventProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/processor/ReceiptEventProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/receipt-kafka-publisher/src/test/java/com/gap/plan/receipt/validator/ReceiptValidatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../P2M/size-and-pack/Backend/receipt-kafka-publisher/sonar.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/challanges/PalindromNumberDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/graph/GraphDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/hashtable/HashTableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/linkedlist/single/L.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/linkedlist/single/LinkedListDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/linkedlist/single/LinkedlistDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/queue/QueueDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/recursion/FactorialDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/recursion/tree/BinarySearchTreeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/sorting/babble/BubbleSortDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/sorting/insertion/InsertionSortDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/sorting/merge/MergeSortDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/sorting/quick/QuickSortDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/sorting/selection/SelectionSortDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/stack/linkedlist/StackImplementingByLinkedListDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/tree/bst/BinarySearchTreeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/tree/traversal/bfs/BreadthFirstSearchDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/datastructures/tree/traversal/dfs/DepthFirstSearchDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/demo/DummyDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/demo/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/chaingOfResponsibility/BrockerChainDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/chaingOfResponsibility/BrokerChainDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/chaingOfResponsibility/ChainOfResponsibilityDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/command/CommandDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/interpreter/IntepreterDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/interpreter/InterpreterDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/behavioral/iterator/IteratorDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/builder/BuilderDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/builder/BuilderTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/builder/PersonBuilderDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/builder/PersonSingleBuilderDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/factories/AbstractFactoryDPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/factories/AbstractFactoryDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/factories/FactoryDesignPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/factories/StaticFactoryDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/prototype/CopyConstructorDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/prototype/NotUseClonableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/prototype/NotUseCloneablePrototypeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/prototype/SerializationDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/BasicSingletonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/EnumBasedSingletonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/InnerStaticSingletonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/LazySingletonAndThreadSafetyDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/MonoStateDesignPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/MultitonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/SingletonDependencyInjectionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/StaticBlockSingletonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/TestabilityIssuesDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/creational/singleton/capitals.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/dependencyInversionPrinciple/DIPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/interfaceSegrigationPrinciple/ISPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/liskovSubstitutionPrinciple/LSPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/openClosePrinciple/OCPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/singleResponsibilityPrinciple/Journal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/solid/singleResponsibilityPrinciple/SRPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/adapter/AdapterDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/bridge/BridgeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/composition/CompositionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/decorator/AdapterDecoratorDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/decorator/DynamicDecoratorCompositionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/decorator/MagicStringDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/decorator/StaticDecoratorCompsitionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/facade/FacadeDesignPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/flyweight/FlyweightDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/proxy/DynamicProxyLoggingDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/designPatterns/structural/proxy/ProxyDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/immutable/ImmutableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/functional/ConsumerDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/functional/FunctionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/functional/PredicateDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/functional/SupplierDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/lemda/ComparableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/lemda/ComparatorDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/lemda/LemdaExpressionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/lemda/RunnableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/sorting/ListSortingDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/streams/FilterDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/streams/ParllelAndSequentialSteamDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/streams/ReduceDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/streams/SteamApiDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/coding/learning/java8/threadLocal/ThreadLocalDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

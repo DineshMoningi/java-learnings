@@ -1,0 +1,25 @@
+
+b
+java:S1192@"GDefine a constant instead of duplicating this literal "Dinesh" 5 times.(èµ°”þÿÿÿÿ
+C
+java:S1604K"(Make this anonymous inner class a lambda(•÷¤äùÿÿÿÿ
+h
+java:S6204D"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¹–†ö
+W
+java:S1854Y"<Remove this useless assignment to local variable "treemap2".(øÍ¸ðùÿÿÿÿ
+T
+java:S1612I">Replace this lambda with method reference 'Employee::getName'.(ÅÎ¥„
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ˆ«óþ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ˆ«óþ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ˆ«óþ
+H
+java:S1481Y"-Remove this unused "treemap2" local variable.(øÍ¸ðùÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(¤™Ç™ûÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+M	java:S106b"9Replace this use of System.out or System.err by a logger.(Ÿè”#
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(Š«½Æùÿÿÿÿ8§‹ÄÑ‚1
+L
+java:S1128	"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ÅØÃÑ‚1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8ÅØÃÑ‚1

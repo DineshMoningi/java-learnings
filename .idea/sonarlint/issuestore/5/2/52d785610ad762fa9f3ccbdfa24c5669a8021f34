@@ -1,0 +1,23 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎóĞğ
+S
+java:S1854@"8Remove this useless assignment to local variable "test".(ıßñşÿÿÿÿ
+D
+java:S1481@")Remove this unused "test" local variable.(ıßñşÿÿÿÿ
+Y
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(ÜÊ˜ıÿÿÿÿ
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(¿ªúº8°–Ú“–1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¨úÙ“–1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8ãïŠè•1
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8©úÙ“–1
+Y
+java:S1128
+"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ãïŠè•1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ãïŠè•1
+=
+java:S1144j"(Remove this unused private "sum" method.(Ìé×

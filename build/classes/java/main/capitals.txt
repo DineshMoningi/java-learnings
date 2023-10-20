@@ -1,0 +1,10 @@
+Tokyo
+33200000
+New York
+17800000
+Mexico City
+21000000
+Delhi
+55000000
+Mumbai
+65000000

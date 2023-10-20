@@ -1,0 +1,20 @@
+
+o
+java:S1104"YMake streetAddress a static final constant or non-public and provide accessors if needed.(å‡¢ë
+m
+java:S1104"WMake houseNumber a static final constant or non-public and provide accessors if needed.(²º×è
+l
+java:S1104"QMake names a static final constant or non-public and provide accessors if needed.(—ºÜÞýÿÿÿÿ
+n
+java:S1104 "SMake address a static final constant or non-public and provide accessors if needed.(×âÌÑøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¡†ô
+i
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+^
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë
+i
+java:S29750"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+^
+java:S11820"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(´ˆ™ë
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¼ã™ß

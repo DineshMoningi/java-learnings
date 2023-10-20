@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë†¶
+n
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìèš©úÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(„œŠÅùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æá¾Þ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿Èq
+R
+java:S1854 "<Remove this useless assignment to local variable "instance".(ÁÂ£
+C
+java:S1481 "-Remove this unused "instance" local variable.(ÁÂ£
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ìíã†þÿÿÿÿ8ÿùç¢1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ìíã†þÿÿÿÿ8žÿùç¢1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ìíã†þÿÿÿÿ8žÿùç¢1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ìíã†þÿÿÿÿ8žÿùç¢1

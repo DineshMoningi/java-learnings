@@ -1,0 +1,14 @@
+
+V	java:S125="<This block of commented-out lines of code should be removed.(È›½Ãúÿÿÿÿ
+J
+java:S1611B"4Remove the parentheses around the "string" parameter(ñÍŸ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ƒØé†
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(åçìÜúÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(âÔ—¤
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ

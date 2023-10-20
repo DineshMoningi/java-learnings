@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±”ù±ÿÿÿÿÿ
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Èûå¦8ßØ×â¢1
+^
+java:S3986	"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(¢˜˜ë
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(« ©Í
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¬¹¼™
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(êƒßÆ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(êƒßÆ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(êƒßÆ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+G
+java:S1128",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ

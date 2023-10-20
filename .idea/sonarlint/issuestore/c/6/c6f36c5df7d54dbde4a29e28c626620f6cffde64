@@ -1,0 +1,38 @@
+
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(åÈî´
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ƒô¹¯ýÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(´æž²
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(åÒ¥‘
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(æŒ˜”
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(§¡‡ê
+M	java:S106h"9Replace this use of System.out or System.err by a logger.(áúÆ8
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(‚„ˆ‰
+O	java:S106Ž"9Replace this use of System.out or System.err by a logger.(áëð£
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(‚„ˆ‰
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÝÌßœ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(êú±“üÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(òšÅÿ
+W
+java:S1128"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+E
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+H
+java:S1128
+"2Remove this unused import 'java.util.OptionalInt'.(š”üÏ
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ

@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë†¶
+O
+java:S2440"4Remove this instantiation of "InnerStaticSingleton".(âŸŒéûÿÿÿÿ
+Y
+java:S1854"<Remove this useless assignment to local variable "instance".(¾¤Šã8òÏÔÒ€1
+J
+java:S1481"-Remove this unused "instance" local variable.(¾¤Šã8óÏÔÒ€1

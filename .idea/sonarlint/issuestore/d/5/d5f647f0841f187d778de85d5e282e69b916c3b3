@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øşÄåıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷«áÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïêÿ’
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(òÚø¾ıÿÿÿÿ8ù¿È÷1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒô¹¯ıÿÿÿÿ8äÆÊ÷1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8’ƒË÷1
+T
+java:S1854;"9Remove this useless assignment to local variable "queue".(‹òÕªşÿÿÿÿ
+E
+java:S1481;"*Remove this unused "queue" local variable.(‹òÕªşÿÿÿÿ

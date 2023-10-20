@@ -1,0 +1,11 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "integers".(Ê—ÔÆÿÿÿÿÿ
+H
+java:S1481"-Remove this unused "integers" local variable.(Ê—ÔÆÿÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(“ö¥ë8æˆÎ‚1
+W
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(·Œğ8éˆÎ‚1
+Y
+java:S1612"<Replace this lambda with method reference 'Entry::getValue'.(·Œğ8ëˆÎ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8„©ˆÎ‚1

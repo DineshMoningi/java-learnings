@@ -1,0 +1,9 @@
+
+L
+java:S1611/"6Remove the parentheses around the "employee" parameter(¾‚¨þ
+B
+java:S1602/",Remove useless curly braces around statement(¾‚¨þ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ò©þýùÿÿÿÿ
+X	java:S1255"<This block of commented-out lines of code should be removed.(©ï“ø8Ë•™Í‚1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ë•™Í‚1

@@ -1,0 +1,9 @@
+
+l
+java:S1104
+"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8‚…½È‚1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÁÜÄúÿÿÿÿ8Š…½È‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ÃÕ©ÿÿÿÿÿ8¿‡½È‚1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¾¢¶Ÿüÿÿÿÿ8Ö‡½È‚1
+G
+java:S1068"*Remove this unused "driver" private field.(Ö÷÷‚8ù‡½È‚1

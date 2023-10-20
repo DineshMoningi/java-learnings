@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë†¶
+:
+java:S1640"Convert this Map to an EnumMap.(®ÄŒÚüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó«—üÿÿÿÿ
+N
+java:S1854 "8Remove this useless assignment to local variable "aux2".(œ¤™À
+Y
+java:S1854"7Remove this useless assignment to local variable "aux".(â·ºøÿÿÿÿ8öÿÆõ€1
+]
+java:S1854";Remove this useless assignment to local variable "primary".(š¤ÄŸúÿÿÿÿ8÷ÿÆõ€1
+N
+java:S1481",Remove this unused "primary" local variable.(š¤ÄŸúÿÿÿÿ8÷ÿÆõ€1
+C
+java:S1481"(Remove this unused "aux" local variable.(â·ºøÿÿÿÿ
+F
+java:S1481 ")Remove this unused "aux2" local variable.(œ¤™À8øÿÆõ€1
+]	java:S125!"<This block of commented-out lines of code should be removed.(ëàÀ×ûÿÿÿÿ8ö“Íõ€1
